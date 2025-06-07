@@ -37,7 +37,7 @@ export {
   Graph,
   Backlinks,
   Search,
-  // Footer,
+  Footer,
   DesktopOnly,
   MobileOnly,
   RecentNotes,
