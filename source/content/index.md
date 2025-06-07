@@ -1,7 +1,7 @@
 ---
 title: Overfitting Life
 ---
-Adding Chaos and Entropy
+Adding Chaos and Entropy one day at a time
 ## Recent Posts 
 
 %% Begin Waypoint %%
