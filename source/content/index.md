@@ -1,6 +1,7 @@
 ---
 title: Overfitting Life
 ---
+Adding Chaos and Entropy
 ## Recent Posts 
 
 %% Begin Waypoint %%
