@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inference Book.md",
+                "file": "Archive/Decision Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inference Book"
+              "title": "Decision Theory"
             }
           }
         ]
@@ -169,20 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "5c3f3f5cb0fc5d9d",
   "lastOpenFiles": [
-    "Archive/Decision Theory.md",
-    "Notes/Inference Book.md",
-    "Archive/Random Inference Topics.md",
-    "Journal/10 June 2025.md",
     "Archive/ICA.md",
-    "Notes/OS Step Book.md",
-    "Archive",
     "Archive/Processes.md",
+    "Archive/Random Inference Topics.md",
+    "Notes/Inference Book.md",
+    "Notes/A Path Towards Autonomous Machine Intelligence.md",
+    "Notes/OS Step Book.md",
+    "Journal/10 June 2025.md",
+    "Archive/Decision Theory.md",
+    "Archive",
     "Journal/9 June 2025.md",
     "Journal/Journal.md",
     "Journal/8 June 2025.md",
-    "Notes/A Path Towards Autonomous Machine Intelligence.md",
     "index.md",
     "Notes",
     "Journal/3 June 2025.md",

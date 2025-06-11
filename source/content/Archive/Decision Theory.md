@@ -1,7 +1,6 @@
 ### Basic Framework
 
 - **Goal**: Select action _a_ that maximizes expected utility
-- **Formula**: E[U|a] = ∫ U(x,a)P(x|a) dx
 - **Components**:
     - Actions: _a_ (choices available)
     - States: _x_ (possible world states)
@@ -49,7 +48,6 @@
 
 - **Optimal action**: Choose site with highest mean return
 - **Decision rule**: nₐ = argmaxₙ μₙ
-- **Expected utility**: E[U] = maxₙ μₙ
 
 #### With Prospecting
 
@@ -61,7 +59,6 @@
 #### Value of Information
 
 - **Expected utility with prospecting**:
-    - E[U|prospect at n] = -cₙ + ∫ max(μ'ₙ, μ₁) × Normal(μ'ₙ; μₙ, s²) dμ'ₙ
 - **Decision criterion**: Prospect if expected benefit exceeds cost cₙ
 - **Depends on**:
     - Difference between current best site and prospecting site (μₙ - μ₁)
