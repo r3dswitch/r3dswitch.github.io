@@ -1,4 +1,4 @@
-[https://www.youtube.com/watch?v=Y8cBT_Qt_fQ](Good YT Video)
+[https://www.youtube.com/watch?v=Y8cBT_Qt_fQ](YT_Video)
 
 #### **1. Hopfield Networks & Energy Minimization**  
 - **Binary Hopfield Networks** minimize an energy function:  

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inference Book.md",
+                "file": "Archive/Boltzmann Machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inference Book"
+              "title": "Boltzmann Machines"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "7d99b7d4d669f423",
   "lastOpenFiles": [
-    "Archive/Boltzmann Machines.md",
     "Notes/Inference Book.md",
+    "Archive/Boltzmann Machines.md",
     "Notes/OS Step Book.md",
     "Archive/Limited Direct Execution.md",
     "Archive/Hopfield Networks.md",
