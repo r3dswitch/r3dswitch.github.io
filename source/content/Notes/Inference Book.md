@@ -2,3 +2,4 @@
 [[Random Inference Topics]]
 [[Decision Theory]]
 [[Hopfield Networks]]
+[[Boltzmann Machines]]
