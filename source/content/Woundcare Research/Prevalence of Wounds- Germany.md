@@ -6,4 +6,30 @@ url: "https://pdf.sciencedirectassets.com/776470/1-s2.0-S2666142X24X0003X/1-s2.0
 favicon: ""
 aspectRatio: "132.7433628318584"
 ```
+```embed
+title: "Epidemiology and Economics of Wounds NHS"
+image: ""
+description: ""
+url: "https://watermark.silverchair.com/bjd0141.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1wwggNYBgkqhkiG9w0BBwagggNJMIIDRQIBADCCAz4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMhLAH5Df4whFTuvPNAgEQgIIDD_TdtRPlJQz4uYtDhRf8S6GpObL283ealRkuak37DH495ni4wdJJoxuiT3hCJdb-qi-IM4Mgq0MoQyuGLYkRppmzISXqsDCfengUtu9L-H0_dTkiD-z7G1rGtsYcFjutnsuFcT3gb0xe8oPwXc33nsLCh4OfbBQb-8whzzmXaWh2FX1DFqPSbR4uCjfjg8zNDJdDQLt1jM6xe9Y4V6EXPcE8joOTAYqtXkdxXMYC-gBOC-QOl1WG3IEeeMtW5oqRCj00KbWMg0DasyL5CbM941_zPs3GYOu_To93i_yaiQTmIg-VE0UwxaZQ4Wpi3iJS5LRHKgHmVf0PX0ZjAWRsJ79WHbA_orgB0gZUSCfFs0gDGopFgIdjEhSRr_c17Us5ePZfxJhnkWrR6f9t1rY_Echr8kG42bOPLWs939eA8GVzRMXWY3oNLFIyIbnKyqIUt6VcwpHrYMTdOjGfe7YsuQfisot1oUzwgVDlWWQSG4PSS1xDd-9dh11dCTeX-VwxvFxiZmwgqhDRsPVCwxYQJQVfPwB4cZW-JddffXW7RXsOvuNiVZxtb99eOVkTbUJnWZVOoF9soJWHfutvSwRDeJpQyTf1A3zapjr915ZGwhkPGue3ATfyYssmIVRb-gwFWo9oAtv4BAdwOMCeLnY5_TOR8oL9tNbMOVYYCbAMMw9ogm3KD3IZL7edXf_n19MoBPkPMadsrcXETnf6bJW4EWvGQTn_Ae29_Bg9z-rSnOhsmNozmgxrd4PPANNPKLBqv--uVQ9-0ntLZImO1_FEMvn_vQCC9C81182ETX_KBhSmBbHYNMoAkqY19LIwRehxfT66LS5kQrHMEDsY0kt2LmZxA6XO7UyvG-RmaLUUcXOyU0qSGwI3Qd3qQhYVqMKH7d3r80lpMh83mXLxt1eFiC3l9yPtuci_VzhBynYZAmj_FLcelY1TQ6MvQUC3Iu-7H2VGjFXsgu8Iy0Wl_vMPu6LGTQxTEJlmg2W9KxtsDku5yUhob_A_65peq4bGwXVP22O1dxZHjKs_knGQ_lE-Fw"
+favicon: ""
+```
 
+**
+
+Need for care forecast:
+
+[https://www.destatis.de/DE/Presse/Pressemitteilungen/2023/03/PD23_124_12.html](https://www.destatis.de/DE/Presse/Pressemitteilungen/2023/03/PD23_124_12.html)
+
+People Living Alone:
+
+[https://www.destatis.de/EN/Press/2021/09/PE21_N057_12411.html](https://www.destatis.de/EN/Press/2021/09/PE21_N057_12411.html)
+
+Wait times for hospitals and appointments
+
+[https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2018-0025/html](https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2018-0025/html)
+
+Understaffed Hospitals
+
+[https://www.dki.de/fileadmin/user_upload/BDO_DKI_Studie_2023.pdf](https://www.dki.de/fileadmin/user_upload/BDO_DKI_Studie_2023.pdf)
+
+**
