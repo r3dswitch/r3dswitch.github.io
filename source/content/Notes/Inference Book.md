@@ -3,3 +3,5 @@
 [[Decision Theory]]
 [[Hopfield Networks]]
 [[Boltzmann Machines]]
+[[MLPs]]
+[[Gaussian Processes]]
