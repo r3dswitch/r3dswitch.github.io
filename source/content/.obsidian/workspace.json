@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/17 June 2025.md",
+                "file": "Journal/19 June 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 June 2025"
+              "title": "19 June 2025"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "7f5e8879d1707406",
   "lastOpenFiles": [
-    "Archive/Probability.md",
+    "Journal/18 June 2025.md",
+    "Journal/19 June 2025.md",
     "Journal/17 June 2025.md",
+    "Archive/Probability.md",
     "Notes/Deep Learning Book.md",
     "Woundcare Research/Competitors.md",
     "Woundcare Research/Logo Archive/Pasted image 20250617143113.png",
@@ -207,8 +209,6 @@
     "Archive/Decision Theory.md",
     "Archive/ICA.md",
     "Archive/Processes.md",
-    "Archive/Random Inference Topics.md",
-    "Journal/Journal.md",
     "Archive",
     "Notes",
     "Journal",
