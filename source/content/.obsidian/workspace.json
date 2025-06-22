@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6af911e438fbe5",
+        "id": "cf982e1534b6b89a",
         "type": "tabs",
         "children": [
           {
-            "id": "697f267785e2fbb8",
+            "id": "a374c67c457f2581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/21 June 2025.md",
+                "file": "Journal/22 June 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 June 2025"
+              "title": "22 June 2025"
             }
           }
         ]
@@ -169,18 +169,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "697f267785e2fbb8",
+  "active": "a374c67c457f2581",
   "lastOpenFiles": [
-    "index.md",
+    "Notes/A Path Towards Autonomous Machine Intelligence.md",
+    "Notes/Deep Learning Book.md",
+    "Notes/Inference Book.md",
+    "Notes/OS Step Book.md",
+    "Archive/CPU Scheduling.md",
+    "Journal/22 June 2025.md",
+    "Woundcare Research/Competitors.md",
+    "Hard Things.md",
     "Journal/21 June 2025.md",
+    "index.md",
     "Journal/20 June 2025.md",
     "Untitled.canvas",
     "Journal/19 June 2025.md",
     "Journal/18 June 2025.md",
     "Journal/17 June 2025.md",
     "Archive/Probability.md",
-    "Notes/Deep Learning Book.md",
-    "Woundcare Research/Competitors.md",
     "Woundcare Research/Logo Archive/Pasted image 20250617143113.png",
     "Woundcare Research/Logo Archive/Pasted image 20250617143249.png",
     "Woundcare Research/Logo Archive",
@@ -195,21 +201,15 @@
     "Woundcare Research/Market Gaps.md",
     "Woundcare Research/Wound Checkup Intervals.md",
     "Woundcare Research/Prevalence of Wounds Germany.md",
-    "Notes/A Path Towards Autonomous Machine Intelligence.md",
     "Journal/16 June 2025.md",
     "Journal/15 June 2025.md",
-    "Notes/Inference Book.md",
     "Woundcare Research",
     "Archive/Gaussian Processes.md",
     "Archive/MLPs.md",
     "Archive/Boltzmann Machines.md",
-    "Notes/OS Step Book.md",
     "Archive/Limited Direct Execution.md",
     "Archive/Hopfield Networks.md",
     "Archive/Process API.md",
-    "Journal/14 June 2025.md",
-    "Journal/13 June 2025.md",
-    "Journal/12 June 2025.md",
     "Archive",
     "Notes",
     "Journal",
