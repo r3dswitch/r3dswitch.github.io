@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c973dff39fe48072",
+        "id": "bb86046543526213",
         "type": "tabs",
         "children": [
           {
-            "id": "8a3b0e4a6e746679",
+            "id": "281d5fca2844623f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/July 2025/29 July 2025.md",
+                "file": "Journal/July 2025/30 July 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29 July 2025"
+              "title": "30 July 2025"
             }
           }
         ]
@@ -169,11 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a3b0e4a6e746679",
+  "active": "281d5fca2844623f",
   "lastOpenFiles": [
+    "Journal/July 2025/29 July 2025.md",
+    "Journal/July 2025/30 July 2025.md",
+    "Archive/SigLIP.md",
     "index.md",
     "Journal/July 2025/1 July 2025.md",
-    "Journal/July 2025/29 July 2025.md",
     "Journal/July 2025",
     "Journal/July 2025/28 July 2025.md",
     "Journal/July 2025/27 July 2025.md",
@@ -196,8 +198,6 @@
     "Journal/July 2025/12 July 2025.md",
     "Journal/July 2025/11 July 2025.md",
     "Journal/July 2025/10 July 2025.md",
-    "Journal/July 2025/9 July 2025.md",
-    "Journal/July 2025/8 July 2025.md",
     "Journal/June 2025",
     "Untitled.canvas",
     "Woundcare Research/Logo Archive/Pasted image 20250617143113.png",

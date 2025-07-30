@@ -30,6 +30,7 @@ Musings and Learnings
 	- [[27 July 2025]]
 	- [[28 July 2025]]
 	- [[29 July 2025]]
+	- [[30 July 2025]]
 - **June 2025**
 	- [[3 June 2025]]
 	- [[4 June 2025]]
