@@ -1,5 +1,7 @@
 Musings and Learnings
 %% Begin Waypoint %%
+- **August 2025**
+	- [[1 Aug 2025]]
 - **July 2025**
 	- [[1 July 2025]]
 	- [[2 July 2025]]

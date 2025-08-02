@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/July 2025/July Review.md",
+                "file": "Journal/August 2025/1 Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "July Review"
+              "title": "1 Aug 2025"
             }
           }
         ]
@@ -171,12 +171,28 @@
   },
   "active": "281d5fca2844623f",
   "lastOpenFiles": [
-    "Journal/June 2025/June Review.md",
+    "Hard Things.md",
+    "Journal/August 2025/1 Aug 2025.md",
+    "Journal/August 2025",
+    "Archive/Curvature.md",
+    "Archive/Geometry Processing.md",
+    "Journal/July 2025/1 July 2025.md",
+    "index.md",
+    "Cool Stuff/Artists.md",
+    "Notes/Books/Deep Learning Book.md",
+    "Woundcare Research/Prevalence of Wounds Germany.md",
+    "Woundcare Research/Wound Checkup Intervals.md",
+    "Woundcare Research/Notes from Bianca.md",
+    "Woundcare Research/Market Gaps.md",
+    "Woundcare Research/Competitors.md",
+    "Notes/Books/How to ADHD.md",
     "Journal/July 2025/July Review.md",
+    "Notes/Books",
+    "Notes/Papers",
+    "Journal/June 2025/June Review.md",
     "Journal/July 2025 Progress Report.md",
     "Journal/July 2025/31 July 2025.md",
     "Archive/Chapter 4 ADHD New Years.md",
-    "Notes/How to ADHD.md",
     "Journal/Journal.md",
     "Journal/July 2025/16 July 2025.md",
     "Journal/July 2025/17 July 2025.md",
@@ -184,19 +200,6 @@
     "Journal/July 2025/19 July 2025.md",
     "Journal/July 2025/20 July 2025.md",
     "Journal/July 2025/21 July 2025.md",
-    "Journal/July 2025/22 July 2025.md",
-    "Journal/July 2025/23 July 2025.md",
-    "Journal/July 2025/24 July 2025.md",
-    "Journal/July 2025/25 July 2025.md",
-    "Journal/July 2025/26 July 2025.md",
-    "Journal/July 2025/27 July 2025.md",
-    "Journal/July 2025/28 July 2025.md",
-    "Journal/July 2025/29 July 2025.md",
-    "Journal/July 2025/30 July 2025.md",
-    "Archive/Chapter 3 Focus.md",
-    "Archive/Chapter 2 ADHD.md",
-    "Archive/Chapter 1 Acceptance.md",
-    "Notes/OS Step Book.md",
     "Journal/July 2025",
     "Journal/June 2025",
     "Untitled.canvas",
@@ -214,8 +217,6 @@
     "Woundcare Research",
     "Archive",
     "Notes",
-    "Journal",
-    "Cool Stuff",
-    "category-folder"
+    "Journal"
   ]
 }
