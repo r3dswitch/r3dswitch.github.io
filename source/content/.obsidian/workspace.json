@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Journal.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal"
+              "title": "index"
             }
           }
         ]
@@ -170,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c421629d5ce43ee",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Journal/Journal.md",
     "Journal/August 2025/27 Aug 2025.md",
     "Journal/August 2025/29 Aug 2025.md",
     "Journal/August 2025/30 Aug 2025.md",
@@ -195,10 +196,9 @@
     "Archive/Single Layer Classification.md",
     "Journal/August 2025/August Review.md",
     "Journal/July 2025/July Review.md",
-    "Archive/index.md",
+    "index.md",
     "Notes/Papers/SigLIP.md",
     "Screenshot 2025-08-17 at 1.16.54 PM.png",
-    "Archive/Hard Things.md",
     "Notes/Events/CISPA Summer School/speakers",
     "Notes/Events",
     "Notes/Events/CISPA Summer School",
