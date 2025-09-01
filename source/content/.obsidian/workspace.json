@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Journal/August 2025/31 Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "31 Aug 2025"
             }
           }
         ]
@@ -170,8 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "6c421629d5ce43ee",
   "lastOpenFiles": [
+    "Notes/Books/Deep Learning Book.md",
+    "Journal/August 2025/31 Aug 2025.md",
+    "Archive/Transformers.md",
+    "index.md",
     "Journal/Journal.md",
     "Journal/August 2025/27 Aug 2025.md",
     "Journal/August 2025/29 Aug 2025.md",
@@ -183,7 +187,6 @@
     "Journal/August 2025/3 Aug 2025.md",
     "Journal/August 2025/2 Aug 2025.md",
     "Journal/August 2025/1 Aug 2025.md",
-    "Notes/Books/Deep Learning Book.md",
     "Archive/Backpropagation.md",
     "Notes/Books/OS Step Book.md",
     "Notes/Books/Inference Book.md",
@@ -195,9 +198,6 @@
     "Archive/Single Layer Regression.md",
     "Archive/Single Layer Classification.md",
     "Journal/August 2025/August Review.md",
-    "Journal/July 2025/July Review.md",
-    "index.md",
-    "Notes/Papers/SigLIP.md",
     "Screenshot 2025-08-17 at 1.16.54 PM.png",
     "Notes/Events/CISPA Summer School/speakers",
     "Notes/Events",
