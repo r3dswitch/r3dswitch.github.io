@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundraising Planning.md",
+                "file": "Notes/Books/Deep Learning Book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundraising Planning"
+              "title": "Deep Learning Book"
             }
           }
         ]
@@ -172,11 +172,12 @@
   },
   "active": "4a05761e2ffef9d8",
   "lastOpenFiles": [
-    "Journal/September 2025/1 Sep 2025.md",
+    "Archive/Graph Neural Networks.md",
+    "Notes/Books/Deep Learning Book.md",
     "Fundraising Planning.md",
+    "Journal/September 2025/1 Sep 2025.md",
     "Journal/August 2025/31 Aug 2025.md",
     "Journal/September 2025",
-    "Notes/Books/Deep Learning Book.md",
     "Archive/Transformers.md",
     "index.md",
     "Journal/Journal.md",
@@ -198,7 +199,6 @@
     "Archive/Standard Distributions.md",
     "Archive/Gradient Descent.md",
     "Archive/Deep Nets.md",
-    "Archive/Single Layer Regression.md",
     "Screenshot 2025-08-17 at 1.16.54 PM.png",
     "Notes/Events/CISPA Summer School/speakers",
     "Notes/Events",

@@ -8,3 +8,4 @@
 [[Standard Distributions]]
 [[CNNs]]
 [[Transformers]]
+[[Graph Neural Networks]]
