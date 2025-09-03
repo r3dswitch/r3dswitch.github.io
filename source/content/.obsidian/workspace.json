@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/September 2025/2 Sep 2025.md",
+                "file": "Journal/September 2025/3 Sept 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Sep 2025"
+              "title": "3 Sept 2025"
             }
           }
         ]
@@ -172,9 +172,12 @@
   },
   "active": "4a05761e2ffef9d8",
   "lastOpenFiles": [
-    "Sampling.md",
     "Journal/September 2025/2 Sep 2025.md",
+    "Journal/September 2025/3 Sept 2025.md",
+    "Archive/Continuous Latent Variables.md",
+    "Archive/Discrete Latent Variables.md",
     "Notes/Books/Deep Learning Book.md",
+    "Archive/Sampling.md",
     "Archive/Graph Neural Networks.md",
     "Fundraising Planning.md",
     "Journal/September 2025/1 Sep 2025.md",
@@ -196,9 +199,6 @@
     "Archive/Backpropagation.md",
     "Notes/Books/OS Step Book.md",
     "Notes/Books/Inference Book.md",
-    "Notes/Books/How to ADHD.md",
-    "Archive/CNNs.md",
-    "Archive/Standard Distributions.md",
     "Screenshot 2025-08-17 at 1.16.54 PM.png",
     "Notes/Events/CISPA Summer School/speakers",
     "Notes/Events",

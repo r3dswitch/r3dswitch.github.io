@@ -10,3 +10,5 @@
 [[Transformers]]
 [[Graph Neural Networks]]
 [[Sampling]]
+[[Discrete Latent Variables]]
+[[Continuous Latent Variables]]
