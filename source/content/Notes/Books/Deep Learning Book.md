@@ -12,3 +12,5 @@
 [[Sampling]]
 [[Discrete Latent Variables]]
 [[Continuous Latent Variables]]
+[[Generative Adversarial Networks]]
+[[Normalising Flows]]
