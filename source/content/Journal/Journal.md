@@ -78,5 +78,6 @@ Musings and Learnings
 	- [[1 Sep 2025]]
 	- [[2 Sep 2025]]
 	- [[3 Sept 2025]]
+	- [[4 Sep 2025]]
 
 %% End Waypoint %%

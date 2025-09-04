@@ -14,3 +14,5 @@
 [[Continuous Latent Variables]]
 [[Generative Adversarial Networks]]
 [[Normalising Flows]]
+[[Autoencoders]]
+[[Diffusion Models]]
