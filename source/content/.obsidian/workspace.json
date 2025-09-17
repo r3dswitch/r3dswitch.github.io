@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b03c9d915d3fb0c",
+        "id": "2378b85b05b5faf3",
         "type": "tabs",
         "children": [
           {
-            "id": "51e5bcdc14116a0d",
+            "id": "ca885f8df88e7f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/September 2025/14 Sept 2025.md",
+                "file": "Archive/Nikita Bier, How to Consistently go Viral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 Sept 2025"
+              "title": "Nikita Bier, How to Consistently go Viral"
             }
           }
         ]
@@ -170,35 +170,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51e5bcdc14116a0d",
+  "active": "ca885f8df88e7f9e",
   "lastOpenFiles": [
-    "Journal/September 2025/13 Sept 2025.md",
+    "Journal/September 2025/17 Sept 2025.md",
+    "Archive/Nikita Bier, How to Consistently go Viral.md",
+    "Journal/June 2025/5 June 2025.md",
+    "Journal/June 2025/4 June 2025.md",
+    "Journal/June 2025/3 June 2025.md",
+    "GP.md",
+    "Fundraising Planning.md",
+    "2025-09-09.md",
+    "Notes/Events/MCP Conference/MCP Conf.md",
+    "Archive/Large Scale MCP Architecture Patterns.md",
+    "Archive/Transport Protocols.md",
+    "Notes/Events/CISPA Summer School/Day 5.md",
+    "Notes/Events/MCP Conference",
+    "Journal/September 2025/16 Sept 2025.md",
+    "Journal/September 2025/15 Sept 2025.md",
     "Journal/September 2025/14 Sept 2025.md",
+    "Journal/September 2025/13 Sept 2025.md",
     "Journal/September 2025/12 Sept 2025.md",
     "Journal/September 2025/11 Sep 2025.md",
     "Journal/September 2025/10 Sept 2025.md",
     "Journal/September 2025/9 Sept 2025.md",
     "Journal/September 2025/8 Sept 2025.md",
-    "2025-09-09.md",
     "Journal/Journal.md",
     "Templates/Note.md",
     "Templates",
     "Journal/September 2025/4 Sep 2025.md",
     "Journal/September 2025/3 Sept 2025.md",
     "Journal/September 2025/2 Sep 2025.md",
-    "Journal/September 2025/1 Sep 2025.md",
-    "Fundraising Planning.md",
-    "GP.md",
-    "Archive/Hermite Curves.md",
-    "index.md",
-    "Archive/Curves.md",
-    "Archive/Curvature.md",
-    "Journal/September 2025/7 Sept 2025.md",
-    "Journal/September 2025/6 Sept 2025.md",
-    "Journal/September 2025/5 Sept 2025.md",
-    "Notes/Events/CISPA Summer School/Day 5.md",
-    "Journal/September 2025/Untitled/Untitled.md",
-    "Notes/Books/Deep Learning Book.md",
     "Journal/September 2025/Untitled",
     "Journal/September 2025",
     "Screenshot 2025-08-17 at 1.16.54 PM.png",
@@ -208,7 +209,6 @@
     "Journal/August 2025",
     "Notes/Books",
     "Notes/Papers",
-    "Journal/July 2025",
     "Untitled.canvas",
     "Woundcare Research/Logo Archive/Pasted image 20250617143113.png",
     "Woundcare Research/Logo Archive/Pasted image 20250617143249.png",

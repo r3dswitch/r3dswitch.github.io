@@ -1,0 +1,66 @@
+- **From Protocol to Production: Paving the Road to Mainstream MCP**
+	- People before processes
+	- Prioritise delegation
+	- Weekly toil as a metric
+	- Passionate people create great products
+- **Securing Agentic Apps: Lessons from the Past, Present and Future**
+	- Risk increases with more AI capability
+	- Prompt Injections, Tool Poisoning, Rug Pulls, MCP shadowing
+	- Software engineering geared towards Scale, Reliability and Security
+	- AI Dev geared towrds ease of use and time to value
+	- https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design#
+	- Isolation and Trust key
+	- Remove unnecessary functionality
+	- Choose deterministic vs Non deterministic components
+	- Have clean boundaries
+	- Have MCP gateways
+	- Remove OS level components like curl or bash
+	- Separate as APIs
+	- Docker compose allows for AI functionality
+- **Learnings from Protocol Engineering: MCP Servers for Enterprise Use**
+	- AI deployment vs operation cost
+	- Supply chains of vendors for DORA and EU AI act
+- **Beyond Protocol: Building an AI Remote MCP Server**
+	- Search foundation models
+	- Embeddings
+	- Rerankings
+	- Readers
+	- Deep Research
+	- Decomposition without assumptions a hard problem
+	- HTML to MD for better parsing
+- **MCP and Small Language Models**
+	- History of protocols for communication: RPC, CORBA,SOAP,REST,gRPC,Thrift,Web Sockets,graphQL, MCP
+	- [[Transport Protocols]]
+	- Distributed Systems Requirements: Security, Trust, Observability, Discoveribility, Versioning, Performance and Cost
+	- GPT has integrated interactive apps (needs permissions)
+	- Speak up
+	- "Transparency is my key engineering value"
+	- AGNTCY.org
+- **Why enterprises need an MCP strategy**
+	- Visibility, Brand Awareness, UX, Distribution
+	- Business to User to Intent
+	- Fine Grained Auth
+	- Tools Governance
+	- Giskard for Evals
+	- Systematic Security Benchmark Paper: https://www.arxiv.org/pdf/2508.13220
+	- Ask users their intent directly
+	- Add optional parameters to understand users better
+	- Sampling and Elicitation missing in most services
+- **Building Agentic Systems at Scale**
+	- Model Selection: Routing vs Simple vs Complex
+	- Intelligent Routing Architecture
+	- Caching Architecture
+	- Fallback Architecture
+	- Living Governance Architecture
+	- [[Large Scale MCP Architecture Patterns]]
+	- OWASP Gen AI Framework
+	- Key Gaps
+		- Security
+		- Multi Agent Threats
+		- Temporal Behaviour
+	- Tenant Isolation
+	- Multi Environment Deployment
+	- AgentCore
+- **Beyond Prompts: Human-Like Interaction with MCP**
+	- Elicitation vs Sampling? Choose both
+	- Modelcontextprotocol.io
