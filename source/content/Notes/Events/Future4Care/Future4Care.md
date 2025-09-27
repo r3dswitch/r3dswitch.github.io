@@ -1,0 +1,28 @@
+- Policy Level:
+	- US High Tech Act for EHR for 33B in 2009
+	- Krankengesatz for 3.4B in 2020
+- Reimbursement pathway critical
+- SBOM necessary
+- Knowledge gap in startups
+- Data Integration
+- Tech stack issues
+- Balance is key
+- Priorities:
+	- Quality or perception of quality
+	- Experience
+	- Automation/Doc
+	- Process
+	- Language barriers
+- Structured data: message Sylvia Thun for access to data platform
+- Infra for realtime decision making
+- New care delivery models
+- RPM has heterogenous outcomes for reimbursement
+- Cost shifted and not saved
+- KVB
+- Gemetic
+- GDPR is key, doing things correctly is a moat
+- 30% time in documentation
+- Onsite deployments to change
+- Twight health HBS case study
+- C5 certification
+- Partner with incumbents
