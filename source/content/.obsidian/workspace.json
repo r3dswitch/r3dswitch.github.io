@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/September 2025/September Review.md",
+                "file": "Journal/October 2025/5 Oct 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "September Review"
+              "title": "5 Oct 2025"
             }
           }
         ]
@@ -170,11 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "da0e2cee437951bb",
   "lastOpenFiles": [
     "Journal/October 2025/6 Oct 2025.md",
-    "Journal/September 2025/September Review.md",
     "Journal/October 2025/5 Oct 2025.md",
+    "Journal/September 2025/September Review.md",
     "Journal/October 2025/4 Oct 2025.md",
     "Journal/October 2025/3 Oct 2025.md",
     "Journal/October 2025/2 Oct 2025.md",
