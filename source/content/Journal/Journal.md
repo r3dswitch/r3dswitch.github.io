@@ -74,6 +74,13 @@ Musings and Learnings
 	- [[29 June 2025]]
 	- [[30 June 2025]]
 	- [[June Review]]
+- **October 2025**
+	- [[1 Oct 2025]]
+	- [[2 Oct 2025]]
+	- [[3 Oct 2025]]
+	- [[4 Oct 2025]]
+	- [[5 Oct 2025]]
+	- [[6 Oct 2025]]
 - **September 2025**
 	- [[1 Sep 2025]]
 	- [[2 Sep 2025]]
@@ -104,5 +111,6 @@ Musings and Learnings
 	- [[27 Sept 2025]]
 	- [[28 Sept 2025]]
 	- [[29 Sept 2025]]
+	- [[30 Sept 2025]]
 
 %% End Waypoint %%
