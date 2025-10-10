@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/October 2025/5 Oct 2025.md",
+                "file": "Archive/FAQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Oct 2025"
+              "title": "FAQ"
+            }
+          },
+          {
+            "id": "835614202ca581e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/October 2025/9 Oct 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 Oct 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,9 +185,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da0e2cee437951bb",
+  "active": "835614202ca581e0",
   "lastOpenFiles": [
+    "Journal/October 2025/8 Oct 2025.md",
+    "Journal/October 2025/9 Oct 2025.md",
+    "Notes/Books/How to ADHD.md",
+    "Archive/Single Layer Regression.md",
+    "Notes/Books/Deep Learning Book.md",
+    "Journal/October 2025/7 Oct 2025.md",
+    "Archive/Impact Mapping.md",
+    "Pasted image 20251008144748.png",
+    "Archive/FAQ.md",
+    "Archive/PR.md",
     "Journal/October 2025/6 Oct 2025.md",
+    "Archive/Feature-wise Linear Modulation (FiLM) for conditioning networks.md",
+    "Archive/AI Nation Details.md",
     "Journal/October 2025/5 Oct 2025.md",
     "Journal/September 2025/September Review.md",
     "Journal/October 2025/4 Oct 2025.md",
@@ -188,18 +215,7 @@
     "Journal/September 2025/26 Sept 2025.md",
     "Journal/September 2025/25 Sept 2025.md",
     "Journal/September 2025/24 Sept 2024.md",
-    "Notes/Events/Future4Care/Future4Care.md",
     "Notes/Events/Future4Care",
-    "Journal/September 2025/23 Sept 2025.md",
-    "Notes/Books/Deep Learning Book.md",
-    "Journal/Journal.md",
-    "Journal/September 2025/22 Sept 2025.md",
-    "Journal/September 2025/21 Sept 2025.md",
-    "Journal/September 2025/20 Sept 2025.md",
-    "Journal/September 2025/19 Sept 2025.md",
-    "Journal/September 2025/18 Sept 2025.md",
-    "Archive/Art of Doing Science and Engineering.md",
-    "Journal/September 2025/17 Sept 2025.md",
     "Notes/Events/MCP Conference",
     "Templates",
     "Journal/September 2025/Untitled",
@@ -217,7 +233,6 @@
     "Woundcare Research/Logo Archive/Pasted image 20250617143712.png",
     "Woundcare Research/Logo Archive/Pasted image 20250617143654.png",
     "Woundcare Research/Logo Archive/Pasted image 20250617143547.png",
-    "Woundcare Research/Logo Archive/Pasted image 20250617143520.png",
-    "Woundcare Research/Logo Archive/Pasted image 20250617143445.png"
+    "Woundcare Research/Logo Archive/Pasted image 20250617143520.png"
   ]
 }
