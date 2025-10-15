@@ -88,6 +88,8 @@ Musings and Learnings
 	- [[11 Oct 2025]]
 	- [[12 Oct 2025]]
 	- [[13 Oct 2025]]
+	- [[14 Oct 2025]]
+	- [[15 Oct 2025]]
 - **September 2025**
 	- [[1 Sep 2025]]
 	- [[2 Sep 2025]]
