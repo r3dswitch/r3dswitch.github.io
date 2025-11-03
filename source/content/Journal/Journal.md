@@ -74,6 +74,10 @@ Musings and Learnings
 	- [[29 June 2025]]
 	- [[30 June 2025]]
 	- [[June Review]]
+- **November 2025**
+	- [[1 Nov 2025]]
+	- [[2 Nov 2025]]
+	- [[3 Nov 2025]]
 - **October 2025**
 	- [[1 Oct 2025]]
 	- [[2 Oct 2025]]
@@ -106,6 +110,7 @@ Musings and Learnings
 	- [[29 Oct 2025]]
 	- [[30 Oct 2025]]
 	- [[31 Oct 2025]]
+	- [[October Review]]
 - **September 2025**
 	- [[1 Sep 2025]]
 	- [[2 Sep 2025]]
