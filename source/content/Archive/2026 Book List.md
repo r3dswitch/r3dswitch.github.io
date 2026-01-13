@@ -1,13 +1,13 @@
 ### Maths
 - [ ] Walk through Combinatorics
-- [ ] First Course in Probability
+- [ ] Number Theory David Burton
 - [ ] Linear Algebra done Right
 ### Software Dev
 - [ ] DDIA
 - [ ] Clean Code
 - [ ] Real-Time Rendering
 ### AI
-- [ ] Multi View Geometry
+- [ ] Invitation to 3D Geometry
 - [ ] RL Barton Sutto
 - [ ] Probabilistic ML Murphy
 ### Philosophy
@@ -28,7 +28,7 @@
 - [ ] Behave
 ### Poetry
 - [ ] Leaves of Grass
-- [ ] Neruda
+- [ ] Rilke
 - [ ] Emily Dickinson
 ### Bangla
 - [ ] Chilekothar Sepai
@@ -49,6 +49,7 @@
 - [ ] Interaction of Color
 - [ ] Ways of Seeing
 ### Startups
-- [ ] Power Law
+- [ ] The Art of Explanation
 - [ ] Traction
 - [ ] Measure what matters
+- [ ] Power Law Finish
