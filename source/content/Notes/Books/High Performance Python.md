@@ -1,0 +1,8 @@
+[[Understanding Performant Python]]
+[[Profiling to Find Bottlenecks]]
+[[Lists and Tuples]]
+[[Dictionaries and Sets]]
+[[Iterators and Generators]]
+[[Matrix and Vector Computation]]
+[[Compiling to C]]
+[[IO]]

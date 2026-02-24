@@ -5,7 +5,7 @@
 ### Software Dev
 - [ ] DDIA
 - [ ] Clean Code
-- [ ] Real-Time Rendering
+- [ ] High Performance Python
 ### AI
 - [ ] Invitation to 3D Geometry
 - [ ] RL Barton Sutto
@@ -28,7 +28,7 @@
 - [ ] Behave
 ### Poetry
 - [ ] Leaves of Grass
-- [ ] Rilke
+- [x] Rilke
 - [ ] Emily Dickinson
 ### Bangla
 - [ ] Chilekothar Sepai
@@ -53,3 +53,5 @@
 - [ ] Traction
 - [ ] Measure what matters
 - [ ] Power Law Finish
+### Gender
+- [ ] Will to Change
