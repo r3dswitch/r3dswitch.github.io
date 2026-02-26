@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/February 2026/26 Feb 2026.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 Feb 2026"
+              "title": "index"
             }
           }
         ]
@@ -170,15 +170,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8423e3e2d7c9a86a",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Journal/February 2026/26 Feb 2026.md",
+    "Journal/Journal.md",
     "Archive/CNNs and Architectures.md",
     "Notes/Courses/CS231N - Computer Vision.md",
-    "Journal/February 2026/26 Feb 2026.md",
     "Notes/Books/High Performance Python.md",
     "Archive/Multiprocessing.md",
     "Journal/February 2026/25 Feb 2026.md",
-    "Journal/Journal.md",
     "Journal/February 2026/12 Feb 2026.md",
     "Journal/February 2026/6 Feb 2026.md",
     "images/Screenshot 2026-02-12 at 11.22.48 PM.png",
