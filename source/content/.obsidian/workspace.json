@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b71226b65c60ad3",
+        "id": "701eb380c37930e5",
         "type": "tabs",
         "children": [
           {
-            "id": "65fd1585fe59c104",
+            "id": "f596d8f00cc24e89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -166,33 +170,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "f596d8f00cc24e89",
   "lastOpenFiles": [
-    "Archive/Using Less RAM.md",
-    "Journal/March 2026/5 Mar 2026.md",
+    "Archive/CS/Random Inference Topics.md",
+    "Archive/Startup/Prof Kourosh Meet.md",
+    "Archive/CS/Probability.md",
+    "Archive/Startup/PR.md",
+    "Archive/Personal/On ADHD.md",
+    "Archive/CS/NN and Backprop.md",
+    "Archive/Startup/Nikita Bier, How to Consistently go Viral.md",
+    "Archive/CS/Iterators and Generators.md",
+    "Archive/Startup/Impact Mapping.md",
+    "Archive/CS/ICA.md",
+    "Archive/Personal/How to People.md",
+    "Archive/CS/Hermite Curves.md",
+    "Archive/CS/Hard Things.md",
+    "Archive/CS/Generative Adversarial Networks.md",
+    "Archive/Startup/FAQ.md",
+    "Archive/Personal/Acceptance.md",
+    "Archive/Startup",
+    "Archive/CS/Feature-wise Linear Modulation (FiLM) for conditioning networks.md",
+    "Archive/Personal",
+    "Archive/CS/Clusters and Job Queues.md",
+    "Archive/CS/Attention and Transformers.md",
+    "Archive/CS/Continuous Latent Variables.md",
+    "Archive/CS/Autoencoders.md",
+    "Archive/CS/Art of Doing Science and Engineering.md",
+    "Archive/Personal/2026 Book List.md",
+    "Archive/CS",
+    "Journal/March 2026/6 Mar 2026.md",
+    "Archive/CS/Use Cases.md",
     "Notes/Books/High Performance Python.md",
-    "Journal/March 2026/4 Mar 2026.md",
-    "Notes/Courses/CS231N - Computer Vision.md",
-    "Archive/Large Scale Distributed Training.md",
-    "Archive/Self Supervised Learning.md",
-    "Physical AI Interpretability.md",
-    "Archive/Video Understanding.md",
-    "Archive/Detection, Segmentation, Visualisation.md",
-    "Journal/March 2026/3 Mar 2026.md",
-    "Archive/RNNs.md",
     "Journal/March 2026",
-    "Archive/Clusters and Job Queues.md",
-    "Archive/Prof Kourosh Meet.md",
-    "Journal/February 2026/27 Feb 2026.md",
-    "Archive/Attention and Transformers.md",
-    "index.md",
-    "Journal/February 2026/26 Feb 2026.md",
-    "Journal/Journal.md",
-    "Archive/CNNs and Architectures.md",
-    "Archive/Multiprocessing.md",
-    "Journal/February 2026/25 Feb 2026.md",
-    "Journal/February 2026/12 Feb 2026.md",
-    "Journal/February 2026/6 Feb 2026.md",
     "images/Screenshot 2026-02-12 at 11.22.48 PM.png",
     "images/Screenshot 2026-02-12 at 11.20.01 PM.png",
     "images/Screenshot 2026-02-12 at 11.18.53 PM.png",
@@ -200,8 +209,6 @@
     "images/Screenshot 2026-02-12 at 11.17.21 PM.png",
     "images/Screenshot 2026-02-12 at 10.55.36 PM.png",
     "images/Screenshot 2026-02-12 at 10.41.33 PM.png",
-    "Archive/Linear Image Classification.md",
-    "Archive/NN and Backprop.md",
     "Notes/Courses",
     "I",
     "images",
@@ -211,9 +218,6 @@
     "Journal/February 2026",
     "Journal/Effort Reviews",
     "Journal/January 2026",
-    "Untitled.base",
-    "Journal/December 2025",
-    "Notes/Events/Field Notes",
     "Untitled.canvas"
   ]
 }

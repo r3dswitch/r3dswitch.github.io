@@ -5,7 +5,7 @@
 ### Software Dev
 - [ ] DDIA
 - [ ] Clean Code
-- [ ] High Performance Python
+- [x] High Performance Python
 ### AI
 - [ ] Invitation to 3D Geometry
 - [ ] RL Barton Sutto
