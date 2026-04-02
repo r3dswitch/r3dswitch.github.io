@@ -9,3 +9,7 @@
 [[Large Scale Distributed Training]]
 [[Self Supervised Learning]]
 [[Generative Models]]
+[[Vision and Language]]
+[[Robot Learning]]
+[[Human Centered AI Vision]]
+[[Pre CNN Foundations]]

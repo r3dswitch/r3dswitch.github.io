@@ -5,7 +5,6 @@
 ### Software Dev
 - [ ] DDIA
 - [ ] Clean Code
-- [x] High Performance Python
 ### AI
 - [ ] Invitation to 3D Geometry
 - [ ] RL Barton Sutto
@@ -28,7 +27,6 @@
 - [ ] Behave
 ### Poetry
 - [ ] Leaves of Grass
-- [x] Rilke
 - [ ] Emily Dickinson
 ### Bangla
 - [ ] Chilekothar Sepai
@@ -45,7 +43,6 @@
 - [ ] The Man Without Qualities
 - [ ] Letters to a young poet- Rilke
 ### Art and Design
-- [ ] Ametora
 - [ ] Interaction of Color
 - [ ] Ways of Seeing
 ### Startups
@@ -55,3 +52,8 @@
 - [ ] Power Law Finish
 ### Gender
 - [ ] Will to Change
+
+### Done
+- [x] Ametora
+- [x] Rilke
+- [x] High Performance Python
