@@ -2,6 +2,9 @@ Musings and Learnings
 %% Begin Waypoint %%
 - **April 2026**
 	- [[2 Apr 2026]]
+	- [[7 Apr 2026]]
+	- [[8 Apr 2026]]
+	- [[10 Apr 2026]]
 - **August 2025**
 	- [[1 Aug 2025]]
 	- [[2 Aug 2025]]
