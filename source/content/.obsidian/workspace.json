@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30f585a06dac6017",
+        "id": "9a0c3ea8a0f7287b",
         "type": "tabs",
         "children": [
           {
-            "id": "0df42d853dd3a865",
+            "id": "ac21e24b27b07d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/July 2025/31 July 2025.md",
+                "file": "Journal/August 2026/6 Aug 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31 July 2025"
+              "title": "6 Aug 2026"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Aug 2026",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -170,14 +172,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df42d853dd3a865",
+  "active": "ac21e24b27b07d7f",
   "lastOpenFiles": [
+    "Journal/August 2026/6 Aug 2026.md",
+    "Journal/August 2025/2 Aug 2025.md",
+    "Journal/Effort Reviews/6 Aug 2026.md",
+    "Journal/August 2026/1 Aug 2026.md",
+    "Physical AI Interpretability.md",
+    "Journal/Journal.md",
+    "Writeup.md",
+    "Journal/August 2025/1 Aug 2025.md",
+    "Journal/July 2026/31 July 2026.md",
+    "Journal/August 2026",
+    "Journal/July 2026/30 July 2026.md",
+    "Journal/July 2025/31 July 2025.md",
     "Journal/July 2025/30 July 2025.md",
     "Journal/July 2025/29 July 2025.md",
     "Journal/July 2025/28 July 2025.md",
     "Journal/July 2025/27 July 2025.md",
     "Journal/July 2025/26 July 2025.md",
-    "Journal/July 2026/30 July 2026.md",
     "Journal/July 2026/29 July 2026.md",
     "Journal/July 2026/28 July 2026.md",
     "Journal/July 2026/27 July 2026.md",
@@ -187,24 +200,14 @@
     "Journal/May 2026/25 May 2026.md",
     "Notes/Events/CISPA Summer School/speakers/Andrew Paverd.md",
     "Journal/May 2026/6 May 2026.md",
-    "Writeup.md",
     "Journal/May 2026",
     "Journal/April 2026/10 Apr 2026.md",
     "Journal/April 2026/13 Apr 2026.md",
-    "Journal/April 2026/8 Apr 2026.md",
-    "Journal/April 2026/7 Apr 2026.md",
-    "Journal/April 2026/2 Apr 2026.md",
-    "Solutions.md",
-    "ACN Hard Problems.md",
     "screenshots/Screenshot 2026-03-31 at 2.12.35 PM.png",
     "screenshots/Screenshot 2026-03-31 at 2.12.07 PM.png",
     "screenshots/Screenshot 2026-03-31 at 2.11.22 PM.png",
     "screenshots/Screenshot 2026-03-31 at 2.11.03 PM.png",
-    "Notes/Courses/CS231N - Computer Vision.md",
-    "Journal/March 2026/28,29 Mar 2026.md",
     "Journal/April 2026",
-    "Journal/March 2026/24 Mar 2026.md",
-    "Journal/March 2026/23 Mar 2026.md",
     "screenshots/Screenshot 2026-03-31 at 2.09.43 PM.png",
     "screenshots",
     "screenshots/Screenshot 2026-03-31 at 3.28.24 PM.png",
@@ -217,7 +220,6 @@
     "Archive/CS",
     "Journal/March 2026",
     "Notes/Courses",
-    "I",
     "Untitled.canvas"
   ]
 }

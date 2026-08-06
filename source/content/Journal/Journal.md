@@ -17,6 +17,9 @@ Musings and Learnings
 	- [[30 Aug 2025]]
 	- [[31 Aug 2025]]
 	- [[August Review]]
+- **August 2026**
+	- [[1 Aug 2026]]
+	- [[6 Aug 2026]]
 - **December 2025**
 	- [[1 Dec 2025]]
 	- [[2 Dec 2025]]
@@ -37,6 +40,7 @@ Musings and Learnings
 	- [[17 Dec 2025]]
 	- [[18 Dec 2025]]
 - **Effort Reviews**
+	- [[6 Aug 2026]]
 	- [[20 Jan 2026]]
 	- [[22 Jan 2026]]
 - **February 2026**
@@ -118,6 +122,7 @@ Musings and Learnings
 	- [[28 July 2026]]
 	- [[29 July 2026]]
 	- [[30 July 2026]]
+	- [[31 July 2026]]
 - **June 2025**
 	- [[3 June 2025]]
 	- [[4 June 2025]]
