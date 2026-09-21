@@ -1,3 +1,38 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Homepage (professional landing page) polish
+body[data-slug="index"] .page {
+  & article > p:first-child {
+    font-size: 1.35rem;
+    line-height: 1.5;
+  }
+
+  // make the contact links stand out
+  & article > p:first-of-type + p + p {
+    a {
+      font-weight: 600;
+      color: var(--secondary);
+    }
+  }
+
+  // work-with-me callout
+  & article > blockquote {
+    margin: 1.5rem 0;
+    padding: 0.9rem 1.25rem;
+    border-left-width: 3px;
+    background: var(--lightgray);
+
+    p {
+      margin: 0;
+    }
+
+    a {
+      font-weight: 600;
+    }
+  }
+
+  // Showcase entries: a little breathing room
+  & article h2 + p + p {
+    margin-bottom: 1.5rem;
+  }
+}

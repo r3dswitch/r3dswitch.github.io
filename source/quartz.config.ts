@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "r3dswitch.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian", "Journal"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
