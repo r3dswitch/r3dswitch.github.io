@@ -1,38 +1,332 @@
 @use "./base.scss";
 
-// Homepage (professional landing page) polish
-body[data-slug="index"] .page {
+// Homepage: subtle professional landing page.
+// All rules are scoped to the index page only (body[data-slug="index"]).
+body[data-slug="index"] {
+  //
+  // Hero — page header block (title + meta) with a soft gradient backdrop
+  //
+  & .page-header {
+    position: relative;
+    margin: 0 0 1.75rem;
+    padding: 0.25rem 0 2.25rem;
+    border-bottom: 1px solid var(--lightgray);
+    overflow: hidden;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: -45%;
+      left: -8%;
+      right: -8%;
+      height: 170%;
+      background: radial-gradient(
+          55% 90% at 18% 0%,
+          color-mix(in srgb, var(--secondary) 12%, transparent),
+          transparent 70%
+        ),
+        radial-gradient(
+          45% 85% at 85% 0%,
+          color-mix(in srgb, var(--tertiary) 14%, transparent),
+          transparent 70%
+        );
+      pointer-events: none;
+    }
+
+    & .article-title {
+      font-size: 2.6rem;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--dark);
+      margin: 0 0 0.35rem;
+      position: relative;
+
+      &::after {
+        content: "";
+        display: block;
+        width: 3.5rem;
+        height: 3px;
+        margin-top: 0.75rem;
+        border-radius: 999px;
+        background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+      }
+    }
+
+    // drop the "created / read-time" meta on the hero
+    & .content-meta {
+      display: none;
+    }
+  }
+
+  //
+  // Hero copy — tagline + intro + contact pills
+  //
   & article > p:first-child {
     font-size: 1.35rem;
     line-height: 1.5;
+    margin: 0 0 0.6rem;
+
+    strong {
+      font-weight: 600;
+      background: linear-gradient(115deg, var(--secondary), var(--tertiary));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
   }
 
-  // make the contact links stand out
-  & article > p:first-of-type + p + p {
+  & article > p:first-of-type + p {
+    font-size: 1.05rem;
+    color: var(--darkgray);
+    max-width: 62ch;
+  }
+
+  // contact links as pill buttons
+  & article p:has(> a[href^="https://github.com"])
+  {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin: 1.5rem 0 0;
+
     a {
-      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.45rem 1.1rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 999px;
+      background: var(--light);
       color: var(--secondary);
+      font-weight: 600;
+      transition:
+        background 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+
+      &:hover {
+        background: var(--secondary);
+        border-color: var(--secondary);
+        color: var(--light) !important;
+      }
+
+      .external-icon {
+        display: none;
+      }
     }
   }
 
-  // work-with-me callout
-  & article > blockquote {
-    margin: 1.5rem 0;
-    padding: 0.9rem 1.25rem;
-    border-left-width: 3px;
-    background: var(--lightgray);
+  //
+  // Section headers — accent bar + breathing room
+  //
+  & article h2 {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
 
-    p {
-      margin: 0;
+    &::before {
+      content: "";
+      flex-shrink: 0;
+      width: 4px;
+      height: 1.05em;
+      border-radius: 999px;
+      background: linear-gradient(180deg, var(--secondary), var(--tertiary));
+    }
+  }
+
+  //
+  // Work with me — service cards
+  //
+  & article h2#work-with-me + p + ul {
+    list-style: none;
+    padding: 0;
+    margin: 1.5rem 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+
+    & > li {
+      padding: 1.1rem 1.2rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 10px;
+      background: color-mix(in srgb, var(--highlight) 40%, var(--light));
+      transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        border-color 0.2s ease;
+
+      &:hover {
+        transform: translateY(-3px);
+        border-color: var(--tertiary);
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+      }
+
+      strong {
+        display: block;
+        font-size: 1.05rem;
+        color: var(--dark);
+        margin-bottom: 0.3rem;
+      }
+    }
+  }
+
+  //
+  // CTA banner
+  //
+  & article > blockquote {
+    margin: 2rem 0;
+    padding: 1.1rem 1.4rem;
+    border-left: 3px solid var(--secondary);
+    border-radius: 8px;
+    background: linear-gradient(
+      90deg,
+      color-mix(in srgb, var(--secondary) 8%, var(--light)),
+      var(--light) 60%
+    );
+
+    a {
+      display: inline-block;
+      margin-left: 0.4rem;
+      padding: 0.35rem 1.1rem;
+      border-radius: 999px;
+      background: var(--secondary);
+      color: var(--light) !important;
+      transition: background 0.2s ease;
+
+      &:hover {
+        background: var(--tertiary);
+        color: var(--light) !important;
+      }
+
+      .external-icon {
+        display: none;
+      }
+    }
+  }
+
+  //
+  // Showcase — category overline labels + project rows
+  //
+  & article h2#showcase ~ h3 {
+    font-family: var(--bodyFont);
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--secondary);
+    margin: 1.75rem 0 0.4rem;
+
+    a[role="anchor"] {
+      display: none;
+    }
+  }
+
+  & article h2#showcase ~ h3 + ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0.5rem;
+
+    & > li {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0.35rem;
+      padding: 0.85rem 1rem;
+      margin: 0.55rem 0;
+      border: 1px solid var(--lightgray);
+      border-left: 3px solid var(--lightgray);
+      border-radius: 8px;
+      background: var(--light);
+      transition:
+        border-color 0.2s ease,
+        background 0.2s ease;
+
+      &:hover {
+        border-color: var(--tertiary);
+        border-left-color: var(--secondary);
+        background: color-mix(in srgb, var(--highlight) 50%, var(--light));
+      }
+
+      strong {
+        color: var(--dark);
+      }
+
+      a {
+        margin-left: auto;
+        white-space: nowrap;
+        color: var(--secondary);
+        font-weight: 600;
+
+        &:hover {
+          color: var(--tertiary) !important;
+        }
+      }
+    }
+  }
+
+  // "All projects →" call to action
+  & article h2#showcase ~ h3 + ul + p {
+    margin: 1.5rem 0 0.25rem;
+    text-align: center;
+
+    strong {
+      color: var(--dark);
     }
 
     a {
-      font-weight: 600;
+      display: inline-block;
+      margin-top: 0.5rem;
+      padding: 0.45rem 1.4rem;
+      border: 1px solid var(--secondary);
+      border-radius: 999px;
+      color: var(--secondary);
+      transition:
+        background 0.2s ease,
+        color 0.2s ease;
+
+      &:hover {
+        background: var(--secondary);
+        color: var(--light) !important;
+      }
     }
   }
 
-  // Showcase entries: a little breathing room
-  & article h2 + p + p {
-    margin-bottom: 1.5rem;
+  //
+  // Thinking in Public — thread links as chips
+  //
+  & article h2#thinking-in-public + p + ul {
+    margin: 1.25rem 0 0;
+    padding-left: 1.2rem;
+
+    & > li {
+      margin: 0.4rem 0;
+    }
+
+    & > li:last-child {
+      list-style: none;
+      margin-left: -1.2rem;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.4rem;
+
+      a {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 999px;
+        font-size: 0.9rem;
+        background: color-mix(in srgb, var(--secondary) 10%, transparent);
+        color: var(--secondary);
+        transition:
+          background 0.2s ease,
+          color 0.2s ease;
+
+        &:hover {
+          background: var(--secondary);
+          color: var(--light) !important;
+        }
+      }
+    }
   }
 }

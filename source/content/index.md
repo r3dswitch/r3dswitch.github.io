@@ -7,7 +7,9 @@ description: AI Engineer building at the intersection of 3D vision, multimodal A
 
 I build AI systems for difficult real-world problems — from 3D perception and reconstruction, through vision-language-action models, to applied ML products.
 
-[GitHub](https://github.com/r3dswitch) · [LinkedIn](https://www.linkedin.com/in/mondal-soumya/) · [Get in touch](mailto:you@example.com)
+[GitHub](https://github.com/r3dswitch)
+[LinkedIn](https://www.linkedin.com/in/mondal-soumya/)
+[Get in touch](mailto:soumya.mondal@tum.de)
 
 ---
 
@@ -19,43 +21,36 @@ I help early-stage teams prototype and build difficult AI systems in computer vi
 - **Computer Vision** — 3D perception, segmentation, reconstruction, visual understanding.
 - **Multimodal AI** — VLM/VLA systems, multimodal pipelines and evaluation.
 
-> Have a difficult AI problem? → [**Get in touch**](mailto:you@example.com)
+> Have a difficult AI problem? → [**Get in touch**](mailto:soumya.mondal@tum.de)
 
 ---
 
 ## Showcase
 
-A selection of projects — from robotics research to applied product engineering.
+### VLA / Robotics
 
-### 01 — VLA / Robotics
+- **Vision-Language-Action for Robotic Manipulation** — multimodal perception and affordance-guided reinforcement learning for manipulation. [[VLA Case Study|Case study →]]
 
-**Vision-Language-Action for Robotic Manipulation** — multimodal perception and affordance-guided reinforcement learning for manipulation.
-[Case study →](Projects/VLA Case Study)
+### 3D Vision
 
-### 02 — 3D Vision
+- **Near-Field 3D Reconstruction** — dense reconstruction and geometry-aware perception. [[Near-Field 3D Reconstruction|Project →]]
 
-**Near-Field 3D Reconstruction** — dense reconstruction and geometry-aware perception (case study in progress).
-[Project →](Projects/Near-Field 3D Reconstruction)
+### Applied AI
 
-### 03 — Applied AI
+- **ZeneCare — AI-Guided Chronic Wound Care** — from smartphone images to healing prediction. [[ZeneCare|Project →]]
+- **IDC — Bias and Discrimination Analysis for ATS** — bias and alignment evals for hiring systems. [[IDC|Project →]]
 
-**ZeneCare — AI-Guided Chronic Wound Care** — from smartphone images to healing prediction (case study in progress).
-[Project →](Projects/ZeneCare)
+### Multimodal Perception
 
-### 04 — Multimodal Perception
-
-**Sensmore — Multimodal Perception Systems** — perception for industrial applications (case study in progress).
-[Project →](Projects/Sensmore Multimodal Perception)
+- **Sensmore — Multimodal Perception Systems** — perception for industrial ADAS. [[Sensmore Multimodal Perception|Project →]]
 
 **All projects** → [Projects](Projects/Projects)
 
 ---
 
-## Thinking in public
+## Thinking in Public
 
-**Physical AI Interpretability** — interpretability for physical-AI systems: sparse autoencoders, robot learning, and scale. [Read the writeup →](Notes/Physical AI Interpretability)
+**Overfitting Life** — my digital garden: interconnected notes on deep learning, geometry, robotics, AI interpretability, systems and mathematics.
 
-**Overfitting Life** — my digital garden: interconnected notes on deep learning, geometry, robotics, systems and mathematics.
-
-- [Notes](Notes/Books/Deep Learning Book) and [courses](Notes/Courses/CS231N - Computer Vision)
+- [[Deep Learning Book|Notes]] and [[CS231N - Computer Vision|courses]]
 - Representative threads: [[Transformers]] · [[Robot Learning]] · [[Geometry Processing]] · [[Vision and Language]] · [[Large Scale Distributed Training]]
